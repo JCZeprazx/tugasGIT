@@ -1,0 +1,26 @@
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-image: url(./aleksandar-jason-a562ZEFKW8I-unsplash.jpg);
+}
+
+p {
+    font-family: monospace;
+}
+
+img {
+    width: 10%;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+fieldset {
+    border-radius: 15px;
+    border: 0;
+}
+
